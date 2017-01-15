@@ -1,0 +1,55 @@
+body {
+  margin-top: 30px;
+}
+.navbar-inverse .navbar-brand {
+  font-family: Lobster;
+  font-size: 36px;
+  color: #20ade4;
+  padding-top: 20px;
+}
+h1.title {
+  padding: 0 30px 30px 0;
+}
+h2 {
+  font-size: 22px;
+}
+h3 {
+  font-size: 22px;
+}
+
+h4 {
+  font-size: 22px;
+}
+
+p {
+  font-size: 15px;
+  padding: 0 30px 30px 0;
+  color: #286090;
+}
+
+.col-md-4 {
+  font-family: Cherry Swash;
+  color: #20ade4;
+}
+
+.jumbotron {
+  font-family: Cherry Swash;
+  background-color: #d9f1f7
+}
+
+.jumbotron h1 {
+color: #0eb1a1;
+}
+
+.jumbotron h2 {
+color: #006f64;
+}
+
+.col-sm-4 {
+  color: #286090;
+}
+
+#bottomline {
+  color: #902871;
+  font-family: Lobster;
+}
